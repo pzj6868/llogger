@@ -1,4 +1,4 @@
-module llogger
+module github.com/pzj6868/llogger
 
 go 1.13
 
